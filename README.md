@@ -1,0 +1,1 @@
+A discord multipurpose bot made by AlphaGB.
